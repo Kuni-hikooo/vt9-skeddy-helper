@@ -7,7 +7,7 @@ import re
 from collections import defaultdict
 from io import BytesIO
 
-st.title("VT-9 Daily Schedule Processor ✈️")
+st.title("VT-9 Daily Airspace Assigner ✈️")
 
 # ========== UTILITY FUNCTIONS ==========
 def parse_time(tstr):
